@@ -1,2 +1,0 @@
-# DailyNotesGeneratorNode
-Created with CodeSandbox
